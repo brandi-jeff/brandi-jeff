@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandi Jefferson!</h1>
 <h3 align="center">A Soldier turned passionate frontend developer!</h3>
 
-- 🔭 I’m currently working on **my [portfolio](https://github.com/brandi-jeff/brandi-jeff.github.io)!** It's coming along but I am trying to make it more responsive.
+- 🔭 I’m currently working on **my [portfolio](https://github.com/brandi-jeff/brandi-jeff.github.io)!**
 
 - 🌱 I’m currently learning **React** and **SASS.** 
 
