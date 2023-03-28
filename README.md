@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **brandi.jeff2@gmail.com**
 
-- 👨‍💻 All of my projects are available on GitHub and LinkedIn for now! 
+- 👨‍💻 All of my projects are available on GitHub and LinkedIn for now! My most recently completed projects are Vacations, Taco Truck, and Disney World-ish.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-V13Jw4qKZb520UulhNeIbexRpo7Fsur/view?usp=sharing](https://drive.google.com/file/d/1-V13Jw4qKZb520UulhNeIbexRpo7Fsur/view?usp=sharing)
 
