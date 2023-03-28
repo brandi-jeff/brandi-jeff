@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **brandi.jeff2@gmail.com**
 
-- 👨‍💻 All of my projects are available on GitHub and LinkedIn for now! My most recently completed projects are Destinations, Taco Truck, and Disney World Website. I've also completed a gorup coding challenge called Squackathon Photos.
+- 👨‍💻 All of my projects are available on GitHub and LinkedIn for now! My most recently completed projects are Destinations, Taco Truck, and Disney World Website. I've also completed a gorup coding challenge called Squackathon Photo Gallery.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-V13Jw4qKZb520UulhNeIbexRpo7Fsur/view?usp=sharing](https://drive.google.com/file/d/1-V13Jw4qKZb520UulhNeIbexRpo7Fsur/view?usp=sharing)
 
