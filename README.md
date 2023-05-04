@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my [portfolio](https://brandi-jeff.github.io/)!**
 
-- 🌱 I’m currently learning **React** and **SASS.** 
+- 🌱 I’m currently learning **React** and **SASS. I'm also learning more about back-end frameworks.** 
 
 - 📫 How to reach me **brandi.jeff2@gmail.com**
 
