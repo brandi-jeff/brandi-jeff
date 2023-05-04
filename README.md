@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on GitHub and LinkedIn for now! My most recently completed projects are Destinations, Taco Truck, and Disney World Website.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-V13Jw4qKZb520UulhNeIbexRpo7Fsur/view?usp=sharing](https://drive.google.com/file/d/1-V13Jw4qKZb520UulhNeIbexRpo7Fsur/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-V13Jw4qKZb520UulhNeIbexRpo7Fsur/view?usp=sharing](https://drive.google.com/file/d/1-bcXAjMkKoBLbBQXXhUWBG1slh4T6snw/view)
 
 - ⚡ Fun fact **I love DIY projects!**
 
