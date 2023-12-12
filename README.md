@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Brandi Jefferson!</h1>
-<h3 align="center">A Soldier turned passionate frontend developer!</h3>
+<h3 align="center">A software developer by day! A Soldier by night (weekends)!</h3>
 
-- 🔭 I’m currently working on **my [portfolio](https://brandi-jeff.github.io/)!**
-
-- 🌱 I’m currently learning **React** and **SASS. I'm also learning more about back-end frameworks.** 
-
-- 📫 How to reach me **brandi.jeff2@gmail.com**
+- 🌱 My personal GitHub is outdated, but I am learning and using Vue for my current role.
+  
+- 🔭 **My [portfolio](https://brandi-jeff.github.io/)!** is under construction, but I'm still very proud of it and would love for you to visit!
 
 - 👨‍💻 All of my projects are available on GitHub and LinkedIn for now! My most recently completed projects are Destinations, Taco Truck, and Disney World Website.
+- 
+- 📫 How to reach me **brandi.jeff2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-V13Jw4qKZb520UulhNeIbexRpo7Fsur/view?usp=sharing](https://drive.google.com/file/d/1-bcXAjMkKoBLbBQXXhUWBG1slh4T6snw/view)
+- 📄 Learn about my [experiences](https://drive.google.com/file/d/1-bcXAjMkKoBLbBQXXhUWBG1slh4T6snw/view?usp=sharing)!
 
 - ⚡ Fun fact **I love DIY projects!**
 
