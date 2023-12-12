@@ -6,7 +6,7 @@
 - 🔭 **My [portfolio](https://brandi-jeff.github.io/)** is under construction, but I'm still very proud of it and would love for you to visit!
 
 - 👨‍💻 All of my projects are available on GitHub and LinkedIn for now! My most recently completed projects are Destinations, Taco Truck, and Disney World Website.
-- 
+
 - 📫 How to reach me **brandi.jeff2@gmail.com**
 
 - 📄 Learn about my [experiences](https://drive.google.com/file/d/1-bcXAjMkKoBLbBQXXhUWBG1slh4T6snw/view?usp=sharing)!
