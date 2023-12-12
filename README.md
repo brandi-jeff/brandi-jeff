@@ -3,7 +3,7 @@
 
 - 🌱 My personal GitHub is outdated, but I am learning and using Vue for my current role.
   
-- 🔭 **My [portfolio](https://brandi-jeff.github.io/)!** is under construction, but I'm still very proud of it and would love for you to visit!
+- 🔭 **My [portfolio](https://brandi-jeff.github.io/)** is under construction, but I'm still very proud of it and would love for you to visit!
 
 - 👨‍💻 All of my projects are available on GitHub and LinkedIn for now! My most recently completed projects are Destinations, Taco Truck, and Disney World Website.
 - 
