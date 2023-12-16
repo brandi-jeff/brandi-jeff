@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **brandi.jeff2@gmail.com**
 
-- 📄 Learn about my [experiences](https://drive.google.com/file/d/1-bcXAjMkKoBLbBQXXhUWBG1slh4T6snw/view?usp=sharing)!
+- 📄 Learn about my [experiences](https://drive.google.com/file/d/104hhFqCCQ3S1Lg4DJkcIu1WaIsGi-yhB/view?usp=sharing)!
 
 - ⚡ Fun fact **I love DIY projects!**
 
